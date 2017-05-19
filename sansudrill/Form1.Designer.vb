@@ -25,6 +25,8 @@ Partial Class Form1
         Me.InBox = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.OutBox = New System.Windows.Forms.TextBox()
+        Me.StartBtn = New System.Windows.Forms.Button()
+        Me.MondaiLbl = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'InBox
@@ -54,11 +56,33 @@ Partial Class Form1
         Me.OutBox.Size = New System.Drawing.Size(130, 185)
         Me.OutBox.TabIndex = 2
         '
+        'StartBtn
+        '
+        Me.StartBtn.Location = New System.Drawing.Point(49, 115)
+        Me.StartBtn.Name = "StartBtn"
+        Me.StartBtn.Size = New System.Drawing.Size(75, 23)
+        Me.StartBtn.TabIndex = 3
+        Me.StartBtn.Text = "開 始"
+        Me.StartBtn.UseVisualStyleBackColor = True
+        '
+        'MondaiLbl
+        '
+        Me.MondaiLbl.BackColor = System.Drawing.Color.White
+        Me.MondaiLbl.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.MondaiLbl.Font = New System.Drawing.Font("MS UI Gothic", 16.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(128, Byte))
+        Me.MondaiLbl.Location = New System.Drawing.Point(16, 169)
+        Me.MondaiLbl.Name = "MondaiLbl"
+        Me.MondaiLbl.Size = New System.Drawing.Size(147, 23)
+        Me.MondaiLbl.TabIndex = 4
+        Me.MondaiLbl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(321, 307)
+        Me.Controls.Add(Me.MondaiLbl)
+        Me.Controls.Add(Me.StartBtn)
         Me.Controls.Add(Me.OutBox)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.InBox)
@@ -72,4 +96,6 @@ Partial Class Form1
     Friend WithEvents InBox As TextBox
     Friend WithEvents Label1 As Label
     Friend WithEvents OutBox As TextBox
+    Friend WithEvents StartBtn As Button
+    Friend WithEvents MondaiLbl As Label
 End Class
