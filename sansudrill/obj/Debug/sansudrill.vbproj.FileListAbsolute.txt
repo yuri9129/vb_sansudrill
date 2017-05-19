@@ -1,1 +1,11 @@
 c:\users\2017414\documents\visual studio 2015\Projects\sansudrill\sansudrill\bin\Debug\sansudrill.exe.config
+c:\users\2017414\documents\visual studio 2015\Projects\sansudrill\sansudrill\bin\Debug\sansudrill.exe
+c:\users\2017414\documents\visual studio 2015\Projects\sansudrill\sansudrill\bin\Debug\sansudrill.pdb
+c:\users\2017414\documents\visual studio 2015\Projects\sansudrill\sansudrill\bin\Debug\sansudrill.xml
+c:\users\2017414\documents\visual studio 2015\Projects\sansudrill\sansudrill\obj\Debug\sansudrill.vbprojResolveAssemblyReference.cache
+c:\users\2017414\documents\visual studio 2015\Projects\sansudrill\sansudrill\obj\Debug\sansudrill.Form1.resources
+c:\users\2017414\documents\visual studio 2015\Projects\sansudrill\sansudrill\obj\Debug\sansudrill.Resources.resources
+c:\users\2017414\documents\visual studio 2015\Projects\sansudrill\sansudrill\obj\Debug\sansudrill.vbproj.GenerateResource.Cache
+c:\users\2017414\documents\visual studio 2015\Projects\sansudrill\sansudrill\obj\Debug\sansudrill.exe
+c:\users\2017414\documents\visual studio 2015\Projects\sansudrill\sansudrill\obj\Debug\sansudrill.xml
+c:\users\2017414\documents\visual studio 2015\Projects\sansudrill\sansudrill\obj\Debug\sansudrill.pdb
